@@ -10,7 +10,8 @@ void fact()
     }
     printf("Factorial is %d \n", result);
 }
-int main() {
+int main()
+{
     fact();
     return 0;
 }
